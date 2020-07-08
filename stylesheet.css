@@ -52,8 +52,8 @@ li{
 .header-right-icon img{
     float:right;
     width:3.5%;
-    margin-top:25px;
-    padding: 0px 10px;
+    margin-top:3%;
+    padding: 0% 0.9%;
 }
 
 .header-right-icon img:hover{
@@ -66,13 +66,13 @@ li{
 
 .header-list li{
     display:block;
-    padding:25px;
+    padding:2.7%;
 }
 
 .header-list li:hover{
     background-color: rgba(231, 231, 231, 0.6);
     transition: all 0.5s;
-    padding-top:25px;
+    padding-top: 2.5%;
 }
 
 .top-wrapper{
@@ -104,16 +104,9 @@ li{
 .top-logo:hover{
     filter:brightness(80%)
 }
-/* @keyframe float{
-  0%   {background-color:red; left:0px; top:0px;}
-  25%  {background-color:yellow; left:200px; top:0px;}
-  50%  {background-color:blue; left:200px; top:200px;}
-  75%  {background-color:green; left:0px; top:200px;}
-  100% {background-color:red; left:0px; top:0px;}
-} */
 
 .main{
-    height:90%;
+    height:100%;
     width:90%;
     margin:2% 5%;
     /* background-color: brown; */
@@ -144,14 +137,9 @@ li{
 }
 .main-food h1{
     margin: 2% 0% 2% 0%;
-    font-size: 40px;
+    font-size: 200%;
     height: 8%;
     /* background-color:red; */
-}
-
-.main-food h2{
-    margin-top: 5%;
-    font-size: 30px;
 }
 
 .zuppa-wrapper{
@@ -163,7 +151,7 @@ li{
 }
 .text p{
     margin-top: 5%;;
-    font-size: 15px;
+    font-size: 90%;
     text-align: justify;
 }
 .text h2{
@@ -172,7 +160,7 @@ li{
     height:20%
 }
 .zuppa-wrapper img{
-    margin-right: 50px;
+    margin-right: 4%;
     width:100%;
 }
 
@@ -219,7 +207,7 @@ li{
     float:left;
 }
 .add-price h2{
-    font-size: 28px;
+    font-size: 175%;
 }
 .add-quantity{
     diplay:block;
@@ -243,7 +231,7 @@ li{
     float:right;
     width:12%;
     height:80%;
-    margin-top: 1%;
+    margin-top: 5%;
     border-radius: 15px;
     background-color:#D47439;
 }
@@ -293,7 +281,7 @@ li{
     text-align:center;
 }
 .food-icon h4{
-    font-size: 20px;
+    font-size: 120%;
     /* background-color: magenta; */
     height:20%;
     text-align: center;
@@ -380,12 +368,12 @@ li{
 }
 
 .text-content p{
-    font-size: 12px;
-    margin-top:10px;
+    font-size: 80%;
+    margin-top:5%;
 }
 .text-content h3{
-    font-size: 24px;
-    margin-bottom: 10px;
+    font-size: 130%;
+    margin-bottom: 2%;
 }
 
 .footer{

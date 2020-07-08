@@ -28,13 +28,22 @@
     }
     .header-right{
         float:right;
-        width:24%;
+        padding-top:4%;
+        margin 0 auto;
+        width:23%;
+        height:100%;
+    }
+
+    .header-right-icon{
+        float:right;
+        width:30%;
         height:100%;
     }
 
     .header-right img{
-        float: left;
-        width:33%;
+        float: right;
+        width:45%;
+        margin: 0 auto;
     }
 
     .top{
@@ -65,10 +74,39 @@
     }
 
     .main{
-        height:150%;
+        height:230%;
     }
     .main-content{
         margin-bottom:5%;
+    }
+    .zuppa-wrapper img{
+        width:70%;
+        margin-left:20%;
+    }
+    .btn{
+        width:24%;
+    }
+
+    .variants p{
+        padding-top:2%;
+        font-size: 110%;
+    }
+
+    .text p{
+        font-size:120%;
+    }
+    .add-basket{
+        margin-top:1%;
+    }
+
+    .add-price h2{
+        font-size: 200%;
+    }
+
+    .add-basket img{
+        margin-top:10%;
+        margin-left:27%;
+        width:40%;
     }
     .food-wrapper{
         height:150%;
@@ -82,11 +120,12 @@
     .food-icon{
         margin-top:5%;
         width:46%;
-        height:15%;
+        height:18%;
     }
     .food-picture{
-        width:35%;
-        height:50%;
+        width:30%;
+        height:45%;    
+
     }
     .food-picture1{
         height:50%;
@@ -94,7 +133,14 @@
     .text-content h3{
         margin-top:0%;
     }
+    
+    .text-content p{
+        font-size:100%;
+    }
 
+    .food-icon h4{
+        font-size:150%;
+    }
 
     .food{
         padding:0;
@@ -123,23 +169,26 @@
         margin-bottom: 4%;
     }
     .header-logo img{
-        margin-top:10%;
+        margin-top:3%;
         width:75%;
     }
     .header-right{
         padding-left: 30%;
         width:30%;
         height:90%;
-        padding:0;
+        padding:0%;
+        padding-top:3.8%;
+        margin:0 auto;
     }
 
     .header-right-icon{
         height:80%;
-        width:33%;
-        float:left;
+        width:28%;
+        float:right;
     }
     .header-right-icon img{
-        width:100%;
+        float:right;
+        width:60%;
     }
 
     .main-content{
@@ -154,17 +203,33 @@
         width:100%;
     }
     .main-food h1{
-        font-size: 35px;
+        font-size: 200%;
     }
+    .text p{
+        margin-top:5%;
+        font-size: 80%;
+    }
+
     .btn{
-        width:40%;
+        width:35%;
     }
     .btn p{
         float: left;
+        font-size: 80%;
     }
 
     .add-price{
         width:70%;
+    }
+
+    .add-price h2{
+        margin-top: 5%;
+        font-size: 150%;
+    }
+    .add-basket img{
+        margin-top: 25%;
+        margin-left: 20%;
+        width:50%;
     }
     .food{
         margin: auto;
@@ -176,11 +241,11 @@
     }
 
     .food-picture{
-        width:70%;
+        width:50%;
         height:50%;
     }
     .food-picture1{
-        width:80%;
+        width:70%;
         height:50%;
     }
     .text-content{
@@ -194,9 +259,11 @@
     }
     .text-content h3{
         font-size: 100%;
+        margin-top:5%;
     }
     .food-icon h4{
-        margin-top:10%;
+        margin-top:5%;
+        font-size:120%;
     }
 }
 
